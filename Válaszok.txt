@@ -1,0 +1,5 @@
+Host gép IP: 192.168.0.102
+Virtuális Ubuntu MAC cím: 08:00:27:24:1a:5a
+Virtuális Ubuntu IP cím: 192.168.2.154
+Docker Engine version: 18.03.1-ce
+Konténer IP: 192.168.2.154
